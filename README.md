@@ -123,12 +123,8 @@ Open your browser at `http://localhost:8501`
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
+**lohith**
+- GitHub: [lohith-l2](https://github.com/your_username)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
