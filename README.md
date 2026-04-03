@@ -63,7 +63,7 @@ This project simulates a real-world student performance analysis system used by 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-performance-intelligence-system.git
+git clone https://github.com/lohith-l2/student-performance-intelligence-system.git
 cd student-performance-intelligence-system
 ```
 
