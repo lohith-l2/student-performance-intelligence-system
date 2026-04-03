@@ -1,4 +1,3 @@
-cat > .gitignore << 'EOF'
 # Virtual environment
 spp/
 venv/
@@ -10,16 +9,15 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Jupyter notebooks checkpoints
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# VS Code settings
+# VS Code
 .vscode/
 
-# Trained model (optional - depends if you want to version it)
+# Keep model but ignore if too large
 # models/*.pkl
-EOF
