@@ -125,6 +125,6 @@ Open your browser at `http://localhost:8501`
 
 👨‍💻 Lohith
 - GitHub: [lohith-l2](https://github.com/lohith-l2)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/b-lohith-goud-7582ba301)
+- LinkedIn: [B LOHITH GOUD](https://linkedin.com/in/b-lohith-goud-7582ba301)
 
 ---
